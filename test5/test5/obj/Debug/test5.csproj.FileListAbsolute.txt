@@ -1,0 +1,10 @@
+C:\Users\LerOni\Desktop\tet5\test5\test5\bin\Debug\test5.exe.config
+C:\Users\LerOni\Desktop\tet5\test5\test5\bin\Debug\test5.exe
+C:\Users\LerOni\Desktop\tet5\test5\test5\bin\Debug\test5.pdb
+C:\Users\LerOni\Desktop\tet5\test5\test5\obj\Debug\test5.csproj.AssemblyReference.cache
+C:\Users\LerOni\Desktop\tet5\test5\test5\obj\Debug\test5.Form1.resources
+C:\Users\LerOni\Desktop\tet5\test5\test5\obj\Debug\test5.Properties.Resources.resources
+C:\Users\LerOni\Desktop\tet5\test5\test5\obj\Debug\test5.csproj.GenerateResource.cache
+C:\Users\LerOni\Desktop\tet5\test5\test5\obj\Debug\test5.csproj.CoreCompileInputs.cache
+C:\Users\LerOni\Desktop\tet5\test5\test5\obj\Debug\test5.exe
+C:\Users\LerOni\Desktop\tet5\test5\test5\obj\Debug\test5.pdb
